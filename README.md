@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/parahvh" target="blank"><img src="https://img.shields.io/twitter/follow/parahvh?logo=twitter&style=for-the-badge" alt="parahvh" /></a> </p>
 
-- My Current Project is [Oneshot, a multi game supported cheat for many games to come](discord.gg/oneshotlua)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
